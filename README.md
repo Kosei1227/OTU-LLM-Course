@@ -37,6 +37,8 @@ The course is 12 weeks long, with 10 weeks of lectures and 2 weeks for project p
    - Introduction to language modelling applied to low-resource languages.
    - Implementation of n-gram models, neural n-gram models, and transformer language models.
    - Open-ended exploration to improve results.
+   - This assignment is borrowed from UC Berkeley’s Computer Science graduate NLP course (cs288) Interactive Assignments for Teaching Structured Neural NLP, Project
+     1: Language Modeling https://sites.google.com/view/nlpassignments
 
 2. **Neural Machine Translation with Custom Vocabulary Building & Transformer**
    - Implementation of a custom transformer architecture using PyTorch.
@@ -58,22 +60,6 @@ The learning outcomes of the course are designed to be SMART (specific, measurab
 4. Practice collaborative software development and debugging of Deep Learning code.
 5. Creation of experimental results tables and methods to test research hypotheses.
 6. Implementation of advanced techniques in NLP required for conducting research.
-
-## Technical Stack
-
-All technical and teaching materials are integrated into a cloud environment accessible by internal students. The environment includes:
-
-- **Operating System:** Debian OS with TensorFlow and CUDA drivers.
-- **Libraries and Packages:** NLTK, Gensim, SciPy, PyTorch, Portalocker, tqdm, and scikit-learn.
-- **Preloaded Datasets/Models:** NLTK and Gensim libraries with preloaded datasets/models.
-
-## Acknowledgments
-
-We would like to thank the following people for testing and setting up the labs and assignments:
-- Kevin Chandra, Mason Shipton, Ethan Randle-Bragg, and Mehdi Benallegue.
-- Professor Ken Pu from OntarioTech University for helpful feedback on the teaching compute.
-- Professor Laura Burdick from the University of Michigan for sharing her teaching materials.
-- The teaching NLP community and slack group for providing resources and a platform for sharing pedagogical thoughts and ideas.
 
 ## References
 
