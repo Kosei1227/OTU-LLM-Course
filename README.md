@@ -27,9 +27,9 @@ The course is 12 weeks long, with 10 weeks of lectures and 2 weeks for project p
 | 7 | Large Language Models | Transformer (Illustrated and Annotated) |
 | 8 | Advanced Techniques for Large Language Models | Prompting |
 | 9 | Multilingual Transfer Learning | Transfer Learning |
-| 10 | Invited Speaker - Languages of the World | Multilingual Language Models |
-| 11 | Final Project Presentation |
-| 12 | Final Project Presentation |
+| 10 | Invited Speakers on Multilinguality and Language Diversity | Multilingual Language Models |
+| 11 | Invited Speakers on Multilinguality and Language Diversity |
+| 12 | Invited Speakers on Multilinguality and Language Diversity |
 
 ### Assignments
 
