@@ -14,22 +14,22 @@ The rapid advancements and widespread transformation of Large Language Models (L
 
 ## Course Structure and Content
 
-The course is 12 weeks long, with 10 weeks of lectures and 2 weeks for project presentations.
+The course is 12 weeks long, with 9 weeks of lectures and 3 weeks for invited speakers who are working in multilinguality and language diversity.
 
-| Week | Lecture Topics | Lab Notebooks |
-| --- | --- | --- |
-| 1 | Corpus Statistics and n-Gram Language Model | RegEx and N-Gram Modelling |
-| 2 | Neural Language Models | Word Embeddings and Vector Semantics |
-| 3 | Introduction to Multilinguality | Naive Bayes and Text Classification |
-| 4 | Neural Machine Translation 1 | PyTorch Introduction |
-| 5 | Neural Machine Translation 2 | Byte Pair Encoding |
-| 6 | Neural Language Model Architectures | Attention |
-| 7 | Large Language Models | Transformer (Illustrated and Annotated) |
-| 8 | Advanced Techniques for Large Language Models | Prompting |
-| 9 | Multilingual Transfer Learning | Transfer Learning |
-| 10 | Invited Speakers on Multilinguality and Language Diversity | Multilingual Language Models |
-| 11 | Invited Speakers on Multilinguality and Language Diversity |
-| 12 | Invited Speakers on Multilinguality and Language Diversity |
+| Week | Lecture Topics | Lab Notebooks | Assignments |
+| --- | --- | --- | --- |
+| 1 | Course Introduction | Python and Regex | |
+| 2 | Corpus Statistics and n-Gram Language Model | N-Gram Language Modelling | |
+| 3 | Entropy Decisions | PyTorch Introduction | A1 |
+| 4 | Machine Learning and Feature Classification | Naive Bayes and Text Classification | |
+| 5 | Neural Language Models | Word Embeddings and Vector Semantics | |
+| 6 | MIDTERM EXAM | RNN | MIDTERM |
+| SB | STUDY BREAK | | |
+| 8 | Attention and Transformers | PyTorch and Attention | A2 |
+| 9 | Large Language Models | Transformer (Illustrated and Annotated) | |
+| 10 | Multilinguality and Language Diversity | HuggingFace1 | |
+| 11 | Multilinguality and Language Diversity | HuggingFace2 | A3 |
+| 12 | Multilinguality and Language Diversity | Transfer Learning | FINAL |
 
 ### Assignments
 
@@ -37,8 +37,7 @@ The course is 12 weeks long, with 10 weeks of lectures and 2 weeks for project p
    - Introduction to language modelling applied to low-resource languages.
    - Implementation of n-gram models, neural n-gram models, and transformer language models.
    - Open-ended exploration to improve results.
-   - This assignment is borrowed from UC Berkeley’s Computer Science graduate NLP course (cs288) Interactive Assignments for Teaching Structured Neural NLP, Project
-     1: Language Modeling https://sites.google.com/view/nlpassignments
+   - This assignment is borrowed from UC Berkeley’s Computer Science graduate NLP course (cs288) Interactive Assignments for Teaching Structured Neural NLP, Project 1: Language Modeling [Link](https://sites.google.com/view/nlp-assignments).
 
 2. **Neural Machine Translation with Custom Vocabulary Building & Transformer**
    - Implementation of a custom transformer architecture using PyTorch.
@@ -71,7 +70,7 @@ The learning outcomes of the course are designed to be SMART (specific, measurab
 
 ## License
 
-This project is licensed under the Apache2.0 License - see the `LICENSE` file for details.
+This project is licensed under the Apache2.0 License - see the LICENSE file for details.
 
 ---
 
